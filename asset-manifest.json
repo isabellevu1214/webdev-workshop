@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webdev-workshop/static/css/main.f855e6bc.css",
+    "main.js": "/webdev-workshop/static/js/main.be81e061.js",
+    "static/js/453.e7ee14ce.chunk.js": "/webdev-workshop/static/js/453.e7ee14ce.chunk.js",
+    "static/media/me.jpg": "/webdev-workshop/static/media/me.1f9efbf98e603beda11f.jpg",
+    "index.html": "/webdev-workshop/index.html",
+    "main.f855e6bc.css.map": "/webdev-workshop/static/css/main.f855e6bc.css.map",
+    "main.be81e061.js.map": "/webdev-workshop/static/js/main.be81e061.js.map",
+    "453.e7ee14ce.chunk.js.map": "/webdev-workshop/static/js/453.e7ee14ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.be81e061.js"
+  ]
+}
